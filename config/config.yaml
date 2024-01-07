@@ -1,0 +1,6 @@
+env: "local"
+storage_path: "./storage/texts.db"
+grpc:
+  port: 44046
+  timeout: 5s
+secret: "test-secret"
